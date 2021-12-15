@@ -1,2 +1,2 @@
 # CCS_Guide
-A simple guid for CCS student
+A simple guide for CCS student
