@@ -7,7 +7,7 @@ A simple guide for CCS student
 如果有任何问题请提issue
 
 
-## CSS职业规划决策树
+## CCS职业规划决策树
 
 ![ccs.drawio](./ccs.drawio.svg)
 
