@@ -6,7 +6,8 @@ A simple guide for CCS student
 
 
 ##Usage
-下载Releases中的文件，导入到drow.io
+下载Releases中的文件，导入到https://www.draw.io/
+
 然后修改后导出成SVG格式提交pull requets即可
 
 
