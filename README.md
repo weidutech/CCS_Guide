@@ -29,11 +29,13 @@ A simple guide for CCS student
 
 竞赛推荐目录：
 信安国赛作品赛等各类作品赛
+
 信安国赛，省赛CTF
+
 互联网+大赛
 
 
-PS：希望GPA高就选给分高的老师
+PS：对于想刷GPA的同学，选老师是个技术活儿
 
 
 
