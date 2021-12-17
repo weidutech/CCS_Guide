@@ -13,6 +13,8 @@ A simple guide for CCS student
 
 如果有任何问题请提issue
 
+手机版打不开图片，请到release中下载
+
 
 ## CCS职业规划决策树
 
