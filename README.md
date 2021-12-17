@@ -24,6 +24,7 @@ A simple guide for CCS student
 
 ## CCS Timeline
 
+![ccs_timeline.drawio](./ccs_timeline.drawio.svg)
 
 
 
