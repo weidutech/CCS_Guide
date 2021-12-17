@@ -27,6 +27,13 @@ A simple guide for CCS student
 ![ccs_timeline.drawio](./ccs_timeline.drawio.svg)
 
 
+竞赛推荐目录：
+信安国赛作品赛等各类作品赛
+信安国赛，省赛CTF
+互联网+大赛
+
+
+PS：希望GPA高就选给分高的老师
 
 
 
