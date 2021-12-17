@@ -11,7 +11,7 @@ A simple guide for CCS student
 然后修改后导出成SVG格式提交pull requets即可
 
 
-如果有任何问题请提issue
+如果有任何问题请提issue，欢迎联系我,联系方式不直接提供，请networking
 
 手机版打不开图片，请到release中下载
 
